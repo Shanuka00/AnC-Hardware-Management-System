@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"achardware"},{"l":"All Packages","u":"allpackages-index.html"}];updateSearchResults();
