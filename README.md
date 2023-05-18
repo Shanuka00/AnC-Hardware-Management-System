@@ -5,5 +5,4 @@ This is a group project, the backend part was done by me.
 
 The jCalender.jar file is required to run this programme!
 
-You can download it from:
-      https://www.toedter.com/download/jcalendar-1.4.zip
+You can download it from: https://www.toedter.com/download/jcalendar-1.4.zip
